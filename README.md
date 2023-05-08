@@ -1,5 +1,5 @@
 # API-administrar-livros
-Esse desenvolvimento foi utilizado para o estudo da linguagem Python e da criação de APIS utilizando a mesma. 
+Esse desenvolvimento foi utilizado para o estudo da linguagem Python e da criação de APIS utilizando Flask. 
 
 ## Como foi feito? 
 Para o desenvolvimento da API utilizamos o Flask, porem o que é Flask? 
